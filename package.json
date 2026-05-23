@@ -1,0 +1,12 @@
+{
+  "name": "yaoyorozu-181-os",
+  "version": "0.1.0",
+  "private": true,
+  "description": "YAOYOROZU-181 OS ∞ symbolic deity database and oracle MVP",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "check:data": "node scripts/check-data.mjs"
+  }
+}

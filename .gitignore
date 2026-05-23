@@ -1,0 +1,13 @@
+# Local/generated files from other workspace tasks
+gokuzen_spec_v3_extracted.txt
+readdy_gokuzen_astrology_engine_spec.md
+readdy_gokuzen_astrology_engine_spec.pdf
+build_readdy_spec_pdf.py
+scripts_generate_data.py
+
+# OS/editor noise
+.DS_Store
+node_modules/
+dist/
+.env
+.env.local
